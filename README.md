@@ -1,3 +1,10 @@
+To run this project ,
+first create project on firebase for web and then connect with android studio ....
+follow the dirrection of connecting firebase web to android studio 
+https://www.digitalocean.com/community/tutorials/flutter-firebase-setup
+
+
+
 # flutterweb
 
 A new Flutter application.
